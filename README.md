@@ -1,2 +1,2 @@
-# CTF
-Capture The Flag
+GEORGIAN CTF Challenge
+https://ctf.cybsecgroup.com
