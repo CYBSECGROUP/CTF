@@ -1,2 +1,2 @@
-GEORGIAN CTF Challenge
-https://ctf.cybsecgroup.com
+# GEORGIAN CTF Challenge
+CaptureTheFlag - გისურვებთ წარმატებას
